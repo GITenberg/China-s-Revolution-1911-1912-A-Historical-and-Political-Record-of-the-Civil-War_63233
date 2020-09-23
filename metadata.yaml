@@ -1,11 +1,16 @@
 _repo: China-s-Revolution-1911-1912-A-Historical-and-Political-Record-of-the-Civil-War_63233
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63233-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Dingle, Edwin J.
     gutenberg_agent_id: '52340'
     url: http://www.gutenberg.org/2009/agents/52340
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63233#China-s-Revolution-1911-1912-A-Historical-and-Political-Record-of-the-Civil-War
 gutenberg_issued: '2020-09-19'
 gutenberg_type: Text
 identifiers:
